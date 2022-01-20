@@ -1,11 +1,11 @@
 
 
 <h1 align="center">
-  🔥 Ignite React JS 📱
+  🔥 Ignite React JS
 </h1>
 
 <h3 align="center">
-  Conteúdos da trilha de React JS do Bootcamp Ignite da Rocketseat.
+  Conteúdos do Capítulo I.
 </h3>
 
 <p align="center">
