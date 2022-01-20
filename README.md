@@ -13,7 +13,7 @@
     LinkedIn
   </a>
    | 
-  <a href="https://app.rocketseat.com.br/me/michel-john-1578542942">
+  <a href="https://passport.rocketseat.com.br/react-js/michel-john-1578542942">
     Rocketseat
   </a>
    | 
