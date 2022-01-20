@@ -25,7 +25,7 @@
 📚 Tabela de conteúdos
 =================
 
-<a href="https://github.com/mchjohn/ignite-reactjs/tree/main/01-github-explorer">
+<a href="https://github.com/mchjohn/ignite-reactjs/tree/main/chapter-i">
   <p>Chapter I</p>
 </a>
 
