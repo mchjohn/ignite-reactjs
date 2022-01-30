@@ -5,7 +5,7 @@
 </h1>
 
 <h3 align="center">
-  Conteúdos da trilha de ReactJS do curso Ignite da Rocketseat.
+  Conteúdos da trilha de ReactJS do Bootcamp Ignite da Rocketseat.
 </h3>
 
 <div align="center">
