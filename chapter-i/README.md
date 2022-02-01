@@ -7,20 +7,6 @@
 <h3 align="center">
   Conteúdos do Capítulo I.
 </h3>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/micheljohn/">
-    LinkedIn
-  </a>
-   | 
-  <a href="https://passport.rocketseat.com.br/react-js/michel-john-1578542942">
-    Rocketseat
-  </a>
-   | 
-  <a href="https://mchjohn.github.io/mchljohn/">
-    Portfólio
-  </a>
-</p>
 <hr>
 
 <br>

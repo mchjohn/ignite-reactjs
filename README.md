@@ -44,9 +44,13 @@
 
 <br><br>
 
-⭐ Desafios principais
+⭐ Desafios do Bootcamp
 =================
-<br>
+<a href="https://github.com/mchjohn/challenge-react-concepts">
+  <p>⚔️ Desafio: Conceitos do ReactJs</p>
+</a>
 
-⭐ Desafios complementares
-=================
+<a href="https://github.com/mchjohn/challenge-componentizing-application">
+  <p>⚔️ Desafio: Componentizando a aplicação</p>
+</a>
+<br>
