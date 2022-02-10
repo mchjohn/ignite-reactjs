@@ -53,4 +53,8 @@
 <a href="https://github.com/mchjohn/challenge-componentizing-application">
   <p>⚔️ Desafio: Componentizando a aplicação</p>
 </a>
+
+<a href="https://github.com/mchjohn/challenge-creating-a-shopping-cart-hook">
+  <p>⚔️ Desafio: Criando um hook de carrinho de compras</p>
+</a>
 <br>
